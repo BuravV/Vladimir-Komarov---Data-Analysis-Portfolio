@@ -13,6 +13,6 @@ Hi!, my name is Vladimir Komarov and this is my project portfolio
 
 
 # Projects
- ldfldfd
+ Comment about all my projects 
 ### Sales Analysis
-  lfdlfd 
+   [**Link**](https://github.com/username/repository)
