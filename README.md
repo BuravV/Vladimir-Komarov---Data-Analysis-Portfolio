@@ -13,5 +13,4 @@ Hi!, my name is Vladimir Komarov and this is my project portfolio
 
 
 # Projects
-
 ## Sales Analysis
