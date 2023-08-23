@@ -10,4 +10,4 @@ Given the available data, its structure and the business's specific objectives, 
 
 The project folder includes a Jupyter notebook containing all the necessary code to achieve the outlined goals. PDF presentation file highlights the key analysis points and final results. 
 
-And csv file with data. Data was take from 
+And csv file with data. Data was take from [**Kaggle**]([ttps://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Portfolio/tree/main/Sales%20Analysis](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
