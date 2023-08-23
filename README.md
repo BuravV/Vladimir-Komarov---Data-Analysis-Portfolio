@@ -22,4 +22,4 @@ Hi!, my name is Vladimir Komarov and this is my project portfolio
 
 **Technology**: Python(pandas, matplotlib, seaborn,sklearn, Kmeans, PCA), Tableau, PowerPoint  
 
-**Results**: Constructed KPIs, Analysis and Data-based Recommendations, nderstanding Customer Segmentation and Behavior. 
+**Results**: Constructed KPIs, Analysis and Data-based Recommendations, nderstanding Customer Segmentation and Behavior, Ready-to-Use Dashboard.
