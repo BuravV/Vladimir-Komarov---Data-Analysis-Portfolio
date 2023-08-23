@@ -15,4 +15,4 @@ Hi!, my name is Vladimir Komarov and this is my project portfolio
 # Projects
  Comment about all my projects 
 ### Sales Analysis
-   [**Link**](https://github.com/username/repository)
+   Link: [**Sales Analysis**](https://github.com/username/repository)
