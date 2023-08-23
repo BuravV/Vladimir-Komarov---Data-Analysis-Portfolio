@@ -7,3 +7,5 @@ Given the available data, its structure and the business's specific objectives, 
 3. Flexible Sales Analysis 2003 vs. 2004. 
 4. Customer Behavior Segmentation and its Analysis.
 5. Create Interactive Dashboard.
+
+The project folder includes a Jupyter notebook containing all the necessary code to achieve the outlined goals. PDF presentation file highlights the key analysis points and final results.
