@@ -15,7 +15,6 @@ Hi!, my name is Vladimir Komarov and this is my project portfolio
 # Projects
  Comment about all my projects 
 ### Sales Analysis
-**Link** : [Sales Analysis Project](https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Portfolio/tree/main/Sales%20Analysis)
-
-
+**Link:** [Sales Analysis Project](https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Portfolio/tree/main/Sales%20Analysis)
+**Description:**
 
