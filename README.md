@@ -2,7 +2,7 @@
 
 # About 
 
-Hi!, I'm Vladimir. I recently graduated with a degree in Statistical Methods and Economics from Prague University of Economics and Business, and I have just stared my Master's degree in Web Development and Data Science. Possessing a strong foundation in data analysis, I am eager to apply my skills to tackle practical problems and make valuable contributions to real-world challenges.
+Hi, I'm Vladimir. I recently graduated with a degree in Statistical Methods and Economics from Prague University of Economics and Business, and I have just stared my Master's degree in Web Development and Data Science. Possessing a strong foundation in data analysis, I am eager to apply my skills to tackle practical problems and make valuable contributions to real-world challenges.
 
 My CV in [**pdf**](https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Portfolio/blob/main/cv_komarov_vladimir.pdf)
 
