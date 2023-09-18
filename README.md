@@ -18,7 +18,7 @@ My CV in [**pdf**](https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Po
 
 ### Sales Analysis
 
-**Link:** [Sales Analysis Project](https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Portfolio/tree/main/Sales%20Analysis)
+**Link:** [Sales Analysis](https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Portfolio/tree/main/Sales%20Analysis)
 
 **Description:**  The project includes the following steps: data loading, brief cleaning and processing, EDA, contracting KPIs and based on them presenting company overview and sales performance analysis(2003/2004), customer segmentation (using K-means algorithms) and further analysis of clusters, providing comprehensive dashboards for stakeholders. Dataset contains synthetic data about orders for  three years, covering full years for 2003 and 2004, as well as the first five months of 2005. It consists of 25 variables and 2 823 rows, providing detailed information about each order, including its price, quantity, status, product line, order date, and customer details such as names, addresses, and countries.
 
@@ -28,7 +28,7 @@ My CV in [**pdf**](https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Po
 
 ### Futures's price analysis 
 
-**Link:** [Futures's price analysis Project](https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Portfolio/tree/main/Futures's%20price%20analysis)
+**Link:** [Futures's price analysis](https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Portfolio/tree/main/Futures's%20price%20analysis)
 
 **Description:** This project investigates the volatility of natural gas and crude oil futures markets from 2010 to 2023. It explores global and European Union markets, identifies volatility drivers, and uses advanced statistical models to find the best fit for each commodity. Additionally, it calculates the Value at Risk (VaR) statistic to aid in risk management. The project includes the following steps: data collection/preprocessing, identification of volatility drivers, implementation of GARCH models, model selection, Value at Risk (VaR) calculation.
 
