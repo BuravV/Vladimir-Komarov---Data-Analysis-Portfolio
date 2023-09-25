@@ -1,0 +1,13 @@
+,index,name,id,description
+0,0,student_created_order,3,Creating an application
+1,497,student_booked_introlesson,2,Assigning an IL
+2,934,student_pass_introlesson_succesfully,7,Successful IL
+3,956,firstline_operator_assigned_at_task,8,Assigned task to call 1L
+4,1007,secondline_operator_assigned_at_task,12,Assigned task to call 2L
+5,1227,student_answered_firstline_operator,4,S. answered 1L operator call
+6,1619,methodist_joined_introlesson,6,DL to IL
+7,1715,student_passed_demolesson,11,DL completed
+8,1801,student_answered_secondline_operator,9,Call 2L
+9,2014,student_joined_demolesson,10,Transfer to DL (DL started)
+10,2239,firstline_operator_send_wa_message,5,WA message sent
+11,13327,student_answered_wa_message,13,S. responded to WA message
