@@ -22,5 +22,4 @@ To show how the bot works, paste its code into your answer file and attach a scr
 
 ## Solution 
 
-Description of the solution can be found in the pdf file [**Telegram Sales Report**]((https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Portfolio/blob/7eb98978d4d70e3ad44e1cfdd6ea2d3f93c17299/Telegram%20Sales%20Report/Telegram%20Sales%20Report.pdf)https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Portfolio/blob/7eb98978d4d70e3ad44e1cfdd6ea2d3f93c17299/Telegram%20Sales%20Report/Telegram%20Sales%20Report.pdf)
-
+Description of the solution can be found in the pdf file [**Telegram Sales Report**](https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Portfolio/blob/main/Telegram%20Sales%20Report/Telegram%20Sales%20Report.pdf)
