@@ -19,3 +19,8 @@ They should help him understand how things are going in the department, so to sp
 1. Choose 3 metrics that will help the sales manager monitor the situation on a daily basis - whether everything is going well. Explain your choices.
 2. Write a Telegram bot (script) that will send a daily report on these metrics to the manager in Telegram.
 To show how the bot works, paste its code into your answer file and attach a screenshot of the message it sent so you can see who it's from.
+
+## Solution 
+
+Description of the solution can be found in the pdf file [**Telegram Sales Report**]((https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Portfolio/blob/7eb98978d4d70e3ad44e1cfdd6ea2d3f93c17299/Telegram%20Sales%20Report/Telegram%20Sales%20Report.pdf)https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Portfolio/blob/7eb98978d4d70e3ad44e1cfdd6ea2d3f93c17299/Telegram%20Sales%20Report/Telegram%20Sales%20Report.pdf)
+
