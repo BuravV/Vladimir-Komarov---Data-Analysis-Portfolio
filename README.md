@@ -11,6 +11,7 @@ My CV in [**pdf**](https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Po
 - [Projects](#section-2)
   - [Sales Analysis](#subsection-21)
   - [Futures's price analysis](#subsection-22)
+- [Case Studies](#section-3)
 <!-- The rest of your content goes here -->
 
 
@@ -33,3 +34,8 @@ My CV in [**pdf**](https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Po
 **Description:** This project investigates the volatility of natural gas and crude oil futures markets from 2010 to 2023. It explores global and European Union markets, identifies volatility drivers, and uses advanced statistical models to find the best fit for each commodity. Additionally, it calculates the Value at Risk (VaR) statistic to aid in risk management. The project includes the following steps: data collection/preprocessing, identification of volatility drivers, implementation of GARCH models, model selection, Value at Risk (VaR) calculation.
 
 **Technology**: R(ggplot2,tidyverse,dplyr,rugarch), GARCH models, Overleaf
+
+# Case Studies
+
+
+
