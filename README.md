@@ -12,6 +12,7 @@ My CV in [**pdf**](https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Po
   - [Sales Analysis](#subsection-21)
   - [Futures's price analysis](#subsection-22)
 - [Case Studies](#section-3)
+  - [Telegram Sales Report](#subsection-31)
 <!-- The rest of your content goes here -->
 
 
@@ -23,7 +24,7 @@ My CV in [**pdf**](https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Po
 
 **Description:**  The project includes the following steps: data loading, brief cleaning and processing, EDA, contracting KPIs and based on them presenting company overview and sales performance analysis(2003/2004), customer segmentation (using K-means algorithms) and further analysis of clusters, providing comprehensive dashboards for stakeholders. Dataset contains synthetic data about orders for  three years, covering full years for 2003 and 2004, as well as the first five months of 2005. It consists of 25 variables and 2 823 rows, providing detailed information about each order, including its price, quantity, status, product line, order date, and customer details such as names, addresses, and countries.
 
-**Technology**: Python(pandas, matplotlib, seaborn,sklearn, Kmeans, PCA), Tableau, PowerPoint  
+**Key words**: Python(pandas, matplotlib, seaborn,sklearn, Kmeans, PCA), Tableau, PowerPoint  
 
 **Results**: Analysis and Data-based Recommendations, Understanding Customer Segmentation and Behavior, Ready-to-Use Dashboard.
 
@@ -33,9 +34,12 @@ My CV in [**pdf**](https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Po
 
 **Description:** This project investigates the volatility of natural gas and crude oil futures markets from 2010 to 2023. It explores global and European Union markets, identifies volatility drivers, and uses advanced statistical models to find the best fit for each commodity. Additionally, it calculates the Value at Risk (VaR) statistic to aid in risk management. The project includes the following steps: data collection/preprocessing, identification of volatility drivers, implementation of GARCH models, model selection, Value at Risk (VaR) calculation.
 
-**Technology**: R(ggplot2,tidyverse,dplyr,rugarch), GARCH models, Overleaf
+**Key words**: R(ggplot2,tidyverse,dplyr,rugarch), GARCH models, Overleaf, crude oil, natural gas
 
 # Case Studies
 
+### Telegram Sales Report 
 
+**Description:** In this project, the goal is to assist the Head of Sales in monitoring the performance of the sales department at the fast-growing English language learning startup. To achieve this, three key metrics are selected that provide a daily snapshot of sales performance, helping the manager stay informed about the department's progress. Additionally, Telegram bot is developed that automates the delivery of these metrics to the manager's Telegram account, ensuring real-time access to critical sales data. 
 
+**Key words**: Python(pandas, matplotlib, seaborn), Telegrambot (telebot), Metrcis(CCR, DUA, Daily Revenue)
