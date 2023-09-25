@@ -26,8 +26,6 @@ My CV in [**pdf**](https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Po
 
 **Key words**: Python(pandas, matplotlib, seaborn,sklearn, Kmeans, PCA), Tableau, PowerPoint  
 
-**Results**: Analysis and Data-based Recommendations, Understanding Customer Segmentation and Behavior, Ready-to-Use Dashboard.
-
 ### Futures's price analysis 
 
 **Link:** [Futures's price analysis](https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Portfolio/tree/main/Futures's%20price%20analysis)
@@ -39,6 +37,8 @@ My CV in [**pdf**](https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Po
 # Case Studies
 
 ### Telegram Sales Report 
+
+**Link:** [Sales Analysis]([https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Portfolio/tree/main/Sales%20Analysis](https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Portfolio/tree/main/Telegram%20Sales%20Report))
 
 **Description:** In this project, the goal is to assist the Head of Sales in monitoring the performance of the sales department at the fast-growing English language learning startup. To achieve this, three key metrics are selected that provide a daily snapshot of sales performance, helping the manager stay informed about the department's progress. Additionally, Telegram bot is developed that automates the delivery of these metrics to the manager's Telegram account, ensuring real-time access to critical sales data. 
 
