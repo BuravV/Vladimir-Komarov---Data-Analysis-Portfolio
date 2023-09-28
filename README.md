@@ -6,6 +6,8 @@ Hi, I'm Vladimir. I recently graduated with a degree in Statistical Methods and 
 
 My CV in [**pdf**](https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Portfolio/blob/main/cv_komarov_vladimir.pdf)
 
+Tableau public : [**Link**]([https://github.com/BuravV/Vladimir-Komarov---Data-Analysis-Portfolio/blob/main/cv_komarov_vladimir.pdf](https://public.tableau.com/app/profile/vladimir3651/vizzes))
+
 # Table of Contents
 - [About](#section-1)
 - [Projects](#section-2)
